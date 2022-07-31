@@ -7,3 +7,5 @@ to get started get vs code lts (i have not tried any other ones)from https://cod
 4.  save it in the top left under file 
 5.  close vscode 
 6.  run the application called TownListener close to the bottem and run it
+
+be sure to say the command exactly or it might not hear you or run the complete wrong command 
