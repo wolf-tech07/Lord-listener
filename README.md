@@ -1,6 +1,6 @@
 # Att-town-lisener-for-quest
 a edited version of town listener that works on quest
-to get started get vs code from https://code.visualstudio.com/
+to get started get vs code lts (i have not tried any other ones)from https://code.visualstudio.com/
 1. go to config.json
 2. where it says username in the quoets put your alta username
 3.  where it says password in the quoets put your alta password
