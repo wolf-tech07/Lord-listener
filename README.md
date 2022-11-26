@@ -1,5 +1,5 @@
-# Att-town-lisener-for-quest
-A edited version of town listener that works on quest
+# Lord listener
+A edited version of town listener that works on quest (and pc)
 to get started get vs code lts (you can also use notepad on your pc)from https://code.visualstudio.com/
 1. go to config.json
 2. where it says username in the quotes put your alta username
